@@ -69,16 +69,7 @@ const Footer = () => {
             </FirstColumn>
             <SecondColumn>
               <Paragraph>
-                Designed & Developed by{" "}
-                <a
-                  href="https://www.incubateind.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  style={{ color: "#ffc857" }}
-                >
-                  IncubateIND{" "}
-                </a>{" "}
-                with ❤️
+                Designed & Developed by Abhee Hudani with ❤️
               </Paragraph>
             </SecondColumn>
             <ThirdColumn>
